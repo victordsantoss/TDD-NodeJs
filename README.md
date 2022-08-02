@@ -10,3 +10,28 @@ Para rodar o projeto se faz necessário a instalação [NodeJs](https://nodejs.o
 </div>
 
 ### Como rodar
+
+* Clonar repositório:
+
+``` shell
+git clone https://github.com/victordsantoss/TDD-NodeJs.git 
+git clone git@github.com:victordsantoss/TDD-NodeJs.git
+```
+
+* Instalar dependências (pasta raiz do repositório):
+
+``` shell
+npm install 
+```
+
+* Iniciar servidor api(pasta raiz do repositório):
+
+``` shell
+npm start 
+```
+
+* Iniciar testes(pasta raiz do repositório):
+
+``` shell
+npm test 
+```
